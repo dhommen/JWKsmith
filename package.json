@@ -1,8 +1,8 @@
 {
-  "name": "jwks-server",
-  "version": "0.1.0",
+  "name": "jwksmith",
+  "version": "1.0.0",
   "private": true,
-  "description": "Express server that exposes a JWKS generated from a .p12 (PKCS#12) certificate",
+  "description": "Tiny sidecar/microservice that exposes /.well-known/jwks.json from a mounted PKCS#12 (.p12) certificate.",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
