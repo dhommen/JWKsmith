@@ -35,7 +35,7 @@ jobs:
 
       - name: Release
         env:
-          GITHUB_TOKEN: ${{ secrets.DOCKER_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.DOCKER_SECRET }}
         run: npx semantic-release
 
   verify:
