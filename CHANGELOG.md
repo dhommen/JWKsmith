@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/dhommen/JWKsmith/compare/v1.0.0...v1.0.1) (2025-08-20)
+
+
+### Bug Fixes
+
+* change token in release workflow to trigger docker build job ([38100b9](https://github.com/dhommen/JWKsmith/commit/38100b9141dc87b24bcce61154abf7f3aee58607))
+* typo in ci token name ([5df512d](https://github.com/dhommen/JWKsmith/commit/5df512d5f0b262bdad58b62c75621b585d2c8c78))
+
 # 1.0.0 (2025-08-19)
 
 
