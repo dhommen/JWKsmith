@@ -1,6 +1,6 @@
 {
   "name": "jwksmith",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": true,
   "description": "Tiny sidecar/microservice that exposes /.well-known/jwks.json from a mounted PKCS#12 (.p12) certificate.",
   "type": "module",

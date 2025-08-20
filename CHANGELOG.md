@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/dhommen/JWKsmith/compare/v1.0.1...v1.0.2) (2025-08-20)
+
+
+### Bug Fixes
+
+* docker release ci password typo ([390b56f](https://github.com/dhommen/JWKsmith/commit/390b56fd71fcf1545bd474ef24789d70473bc8b7))
+
 ## [1.0.1](https://github.com/dhommen/JWKsmith/compare/v1.0.0...v1.0.1) (2025-08-20)
 
 
